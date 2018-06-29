@@ -1,0 +1,9 @@
+/Applications/CLion.app/Contents/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /Users/zhangk5/Documents/bsc/projects/mcu
+CMake Error at CMakeLists.txt:13 (message):
+  Invalid build type: .  Build with:
+
+      cmake .. -DBUILD_TYPE=type   # 'type' can be 'test', 'firmware', or 'bootloader'
+      
+
+
+-- Configuring incomplete, errors occurred!
